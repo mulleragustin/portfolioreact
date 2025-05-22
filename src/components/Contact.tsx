@@ -68,8 +68,8 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-medium text-gray-200">Email</h4>
-                    <a href="mailto:contact@example.com" className="text-gray-400 hover:text-primary-400 transition-colors">
-                      contact@example.com
+                    <a href="mailto:contact@gmail.com" className="text-gray-400 hover:text-primary-400 transition-colors">
+                      agustinmuller98@gmail.com
                     </a>
                   </div>
                 </div>
@@ -80,7 +80,7 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-medium text-gray-200">Location</h4>
-                    <p className="text-gray-400">Buenos Aires, Argentina</p>
+                    <p className="text-gray-400">Resistencia, Chaco, Argentina</p>
                   </div>
                 </div>
               </div>
@@ -89,7 +89,7 @@ const Contact: React.FC = () => {
                 <h4 className="font-medium text-gray-200 mb-4">Connect with me</h4>
                 <div className="flex space-x-4">
                   <a
-                    herf="https://instagram.com/mulleragustin.dev/"
+                    herf="https://www.instagram.com/mulleragustin.dev/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-dark-200 p-3 rounded-lg text-gray-400 hover:text-primary-400 hover:bg-dark-300 transition-all"
