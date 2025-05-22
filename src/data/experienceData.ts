@@ -17,6 +17,7 @@ export const experienceData: ExperienceItem[] = [
     achievements: [
       "Created a comprehensive appointment/shift management system",
       "Developed a form with PDF certificate generation functionality",
+      "Data visualization with Power BI"
     ]
   },
   {

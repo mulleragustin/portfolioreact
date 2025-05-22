@@ -32,6 +32,7 @@ const Hero: React.FC = () => {
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
             <span className="gradient-text-2">Agustin Muller <br/> Full Stack Developer</span>
           </h1>
+          <h3 className="text-4xl md:text-1xl lg:text-3xl font-bold mb-6"> Partner TinyStudio</h3>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
             Specializing in creating creating web applications, scraping, and IT solutions. If you can think it, you can elbow it.
           </p>
