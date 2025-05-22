@@ -43,10 +43,9 @@ const Navbar: React.FC = () => {
             duration={500}
             className="text-xl font-bold cursor-pointer gradient-text"
           >
-            <span className="hidden sm:inline">Developer</span>Portfolio
+            <span className="hidden sm:inline">mulleragustin.dev</span>
           </Link>
 
-          {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-8">
             {navLinks.map((link) => (
               <Link
@@ -65,7 +64,7 @@ const Navbar: React.FC = () => {
           {/* Social Links */}
           <div className="hidden md:flex items-center space-x-4">
             <a 
-              href="https://github.com" 
+              href="https://github.com/mulleragustin/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-primary-400 transition-colors"
@@ -73,7 +72,7 @@ const Navbar: React.FC = () => {
               <Github size={20} />
             </a>
             <a 
-              href="https://linkedin.com" 
+              href="https://linkedin.com/in/mulleragustin/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-primary-400 transition-colors"
@@ -81,7 +80,7 @@ const Navbar: React.FC = () => {
               <Linkedin size={20} />
             </a>
             <a 
-              href="mailto:contact@example.com" 
+              href="mailto:agustinmuller98@gmail.com" 
               className="text-gray-400 hover:text-primary-400 transition-colors"
             >
               <Mail size={20} />
@@ -125,7 +124,7 @@ const Navbar: React.FC = () => {
             ))}
             <div className="flex justify-center space-x-6 py-4">
               <a 
-                href="https://github.com" 
+                href="https://github.com/mulleragustin/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-primary-400 transition-colors"
@@ -133,7 +132,7 @@ const Navbar: React.FC = () => {
                 <Github size={20} />
               </a>
               <a 
-                href="https://linkedin.com" 
+                href="https://linkedin.com/in/mulleragustin/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-primary-400 transition-colors"
@@ -141,7 +140,7 @@ const Navbar: React.FC = () => {
                 <Linkedin size={20} />
               </a>
               <a 
-                href="mailto:contact@example.com" 
+                href="mailto:agustinmuller98@gmail.com" 
                 className="text-gray-400 hover:text-primary-400 transition-colors"
               >
                 <Mail size={20} />
