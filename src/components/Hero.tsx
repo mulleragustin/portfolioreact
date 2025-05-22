@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
           <div className="mb-8 relative">
             <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-cyan-600 shadow-lg">
               <img
-                src="https://media.licdn.com/dms/image/v2/D4E03AQE5Ftt2yQkuAA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729006291309?e=1753315200&v=beta&t=3qp02Fztc6b9HeKBm81JXhZOhWG3hLEh5vdndYw-qEg"
+                src="./fotoperfil.png"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
