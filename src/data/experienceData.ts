@@ -11,7 +11,7 @@ export const experienceData: ExperienceItem[] = [
   {
     period: "2020 - 2023",
     title: "Apps Script Developer",
-    company: "Becas",
+    company: "Becas - Government ",
     description: "Developed multiple systems using Google Apps Script to automate and enhance business processes.",
     icon: "Code",
     achievements: [
@@ -36,7 +36,7 @@ export const experienceData: ExperienceItem[] = [
   {
     period: "October 2024 - Present",
     title: "Freelance Developer",
-    company: "ElectroRLF",
+    company: "Goodfla Clothing Store",
     description: "Designed and implemented a subscription-based membership system for a clothing retail business.",
     icon: "Clothing",
     achievements: [
@@ -44,21 +44,18 @@ export const experienceData: ExperienceItem[] = [
       "Implemented exclusive discount features for subscribers",
       "Created a prize draw system for loyalty program members",
       "Developed an admin dashboard for store management",
-      "Integrated with Stripe for secure payment processing",	
+      "StockManager integration Ecommerce developed with Django",
+      
     ]
   },
   {
     period: "October 2024 - Present",
     title: "Freelance Developer",
-    company: "ElectroRLF",
+    company: "ElectroRLF - Electronics Store",
     description: "Designed and implemented a subscription-based membership system for a clothing retail business.",
     icon: "Users",
     achievements: [
-      "Built a complete subscription management system with recurring payments",
-      "Implemented exclusive discount features for subscribers",
-      "Created a prize draw system for loyalty program members",
-      "Developed an admin dashboard for store management",
-      "Integrated with Stripe for secure payment processing",	
+      "Stock manager developed with Django integrated with Tienda Nube, designed for multiple warehouses, invoicing, budget generation, cash register opening and closing, and data visualization dashboard.",	
     ]
   }
 ];
