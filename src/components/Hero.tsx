@@ -2,6 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { ChevronDown } from "lucide-react";
 import { Link } from "react-scroll";
+import profilePic from "../assets/images/fotoperfil.png";
 
 const Hero: React.FC = () => {
   return (
@@ -19,7 +20,7 @@ const Hero: React.FC = () => {
           <div className="mb-8 relative">
             <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-cyan-600 shadow-lg">
               <img
-                src="./fotoperfil.png"
+                src={profilePic}
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
